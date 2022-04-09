@@ -12,5 +12,9 @@ I am a third-year PhD student at Dept. of Systems and Control Engineering, Tokyo
 
 yurid@dsl.sc.e.titech.ac.jp, yurid.e@yahoo.com 
 
+### External links
+- [Google Scholar](https://scholar.google.co.jp/citations?user=p_rRSS4AAAAJ&hl=en#)
+- [Orcid](https://orcid.org/0000-0003-2054-952X)
+
 
 ### [Publications and Activities](https://yurideka.github.io/publications)
