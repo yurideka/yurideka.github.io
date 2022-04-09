@@ -28,7 +28,7 @@
 - IEEE Transactions on Network Science and Engineering (2020)
 - IEEE Control Systems Letters (2021)
 - IEEE Transactions on Automatic Control (2022)
-- IEEE Conference on Decisions and Control (2020, 2021, 2022)
+- IEEE Conference on Decision and Control (2020, 2021, 2022)
 - American Control Conference (2021)
 - European Control Conference (2021)
 
