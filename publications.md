@@ -2,7 +2,7 @@
 
 1. Y. Nugraha, A. Cetinkaya, T. Hayakawa, H. Ishii, and Q. Zhu, "Dynamic resilient network games with applications to multiagent consensus", *IEEE Trans. Contr. Netw. Systems*, vol. 8, pp. 246-259, 2021.
 
-### Conference Publications
+### Peer-Reviewed Conference Publications
 
 2022
 
