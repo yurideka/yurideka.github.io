@@ -45,4 +45,3 @@
 - IEEE Control Systems Society (2020-now)
 - IEEE Systems, Man, and Cybernetics Society (2021-now)
 - Society of Instrument and Control Engineers (2020-now)
-European Control Conference (2021)
