@@ -1,10 +1,14 @@
 ### About me
 
-I am a third-year PhD student at Dept. of Systems and Control Engineering, Tokyo Tech, working under Dr. [Tomohisa Hayakawa](http://www.dsl.sc.e.titech.ac.jp/hayakawa/index.html). My current research topics are in the areas of networked control systems, nonlinear systems, cyber-physical systems, and game theory.
+I am a third-year PhD student at Dept. of Systems and Control Engineering, Tokyo Tech, working under Dr. [Tomohisa Hayakawa](http://www.dsl.sc.e.titech.ac.jp/hayakawa/index.html). My research topics are in the areas of networked control systems, nonlinear systems, cyber-physical systems, and game theory.
+
+### [Employment](https://yurideka.github.io/employment)
 
 ### [Education](https://yurideka.github.io/education)
 
-### [Publications and Activities](https://yurideka.github.io/publications)
+### [Publications](https://yurideka.github.io/publications)
+
+### [Awards, Honors, and Activities](https://yurideka.github.io/aha)
 
 ### Email
 
