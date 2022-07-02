@@ -1,2 +1,4 @@
 theme: jekyll-theme-slate
 description: Yurid Eka Nugraha
+plugins:
+  - jekyll-seo-tag
