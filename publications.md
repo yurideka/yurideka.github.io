@@ -16,5 +16,10 @@
 8. **Y. Nugraha**, A. Cetinkaya, T. Hayakawa, H. Ishii, and Q. Zhu, "[Subgame perfect equilibrium analysis for jamming attacks on resilient graphs](https://ieeexplore.ieee.org/abstract/document/8814607)", in *Proc. American Control Conf.*, 2019, pp. 2060-2065.
 9. **Y. Nugraha**, A. Cetinkaya, T. Hayakawa, H. Ishii, and Q. Zhu, "Two-player subgame perfect equilibrium analysis for jamming attacks on dynamic graphs", in *SICE Int. Systems and Control Symposium* as position paper, 2019.
 
+### Submitted Works
+1. **Y. Nugraha**, A. Cetinkaya, T. Hayakawa, H. Ishii, and Q. Zhu, "A Rolling Horizon
+Game Considering Network Effect in Cluster Forming for Dynamic
+Resilient Multiagent Systems".
+2. **Y. Nugraha**, A. Cetinkaya, T. Hayakawa, H. Ishii, and Q. Zhu, "Cluster Forming of Multiagent Systems in Energy Allocation Games with Non-uniform Horizons".
 
 ### [Back](https://yurideka.github.io)
