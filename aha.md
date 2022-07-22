@@ -1,6 +1,6 @@
 ### Awards and Fellowships
 - PPA Scholarship, by Indonesian Government, 2013-2016
-- Monbukagakusho Scholarship, by Japanese Government, 2017-now
+- Monbukagakusho Scholarship, by Japanese Government, 2017-2023
 - SICE International Young Authors Award, by Society of Instrument and Control Engineers (SICE), 2020
 
 ### Review Experience
