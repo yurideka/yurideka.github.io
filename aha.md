@@ -5,18 +5,14 @@
 
 ### Review Experience
 
-- IEEE Transactions on Network Science and Engineering (2020)
-- IEEE Control Systems Letters (2021)
-- IEEE Transactions on Automatic Control (2022)
-- IEEE Conference on Decision and Control (2020, 2021, 2022)
-- American Control Conference (2021)
-- European Control Conference (2021)
+- Journal: IEEE Transactions on Automatic Control, IEEE Transactions on Network Science and Engineering, IEEE Control Systems Letters
+- Conference: IEEE Conference on Decision and Control, American Control Conference, European Control Conference
 
 ### Society Memberships
 
-- IEEE Student Member (2020-now)
-- IEEE Control Systems Society (2020-now)
-- IEEE Systems, Man, and Cybernetics Society (2021-now)
-- Society of Instrument and Control Engineers (2020-now)
+- IEEE Student Member
+- IEEE Control Systems Society
+- IEEE Systems, Man, and Cybernetics Society 
+- Society of Instrument and Control Engineers (2020-2023)
 
 ### [Back](yurideka.github.io)
