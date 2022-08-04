@@ -5,7 +5,7 @@
 
 ### Review Experience
 
-- Journal: IEEE Transactions on Automatic Control, IEEE Transactions on Network Science and Engineering, IEEE Control Systems Letters
+- Journal: IEEE Transactions on Automatic Control, IEEE Transactions on Control of Network Systems, IEEE Transactions on Network Science and Engineering, IEEE Control Systems Letters
 - Conference: IEEE Conference on Decision and Control, American Control Conference, European Control Conference
 
 ### Society Memberships
