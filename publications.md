@@ -27,7 +27,7 @@
 
 [C8] **Y. Nugraha**, A. Cetinkaya, T. Hayakawa, H. Ishii, and Q. Zhu, "[Rolling horizon games for cluster formation of resilient multiagent systems](https://ieeexplore.ieee.org/abstract/document/9683409)", in *Proc. IEEE Conf. on Decision and Control*, 2021, pp. 4829-4934.
 
-[C9] **Y. Nugraha**, A. Cetinkaya, T. Hayakawa, H. Ishii, and Q. Zhu, "[Rolling horizon games of resilient networks with non-uniform horizons](https://www.sciencedirect.com/science/article/abs/pii/S0947358022000863)", in *Proc. European Control Conference*, 2022, pp. 1254-1269 (appeared as journal paper in [J2]).
+[C9] **Y. Nugraha**, A. Cetinkaya, T. Hayakawa, H. Ishii, and Q. Zhu, "[Rolling horizon games of resilient networks with non-uniform horizons](https://www.sciencedirect.com/science/article/abs/pii/S0947358022000863)", in *Proc. European Control Conference*, 2022, pp. 1254-1269 (appeared as a journal paper in [J2]).
 
 
 
