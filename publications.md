@@ -1,6 +1,7 @@
 ### Journal Publications
 
 [J1] **Y. Nugraha**, A. Cetinkaya, T. Hayakawa, H. Ishii, and Q. Zhu, "[Dynamic resilient network games with applications to multiagent consensus](https://ieeexplore.ieee.org/abstract/document/9167396)", *IEEE Trans. Contr. Netw. Systems*, vol. 8, pp. 246-259, 2021.
+
 [J2] **Y. Nugraha**, A. Cetinkaya, T. Hayakawa, H. Ishii, and Q. Zhu, "[Rolling horizon games of resilient networks with non-uniform horizons](https://www.sciencedirect.com/science/article/abs/pii/S0947358022000863)", *European Journal of Control*, pp. 100693, 2022.
 
 
