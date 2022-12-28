@@ -1,5 +1,5 @@
-theme: jekyll-theme-modernist
-title: [The title of your site]
-description: KUPO
+theme: jekyll-theme-slate
+title: []
+description: []
 plugins:
   - jekyll-seo-tag
