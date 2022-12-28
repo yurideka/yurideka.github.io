@@ -22,7 +22,7 @@ yurid.e@yahoo.com
 
 ### External links
 - [Google Scholar](https://scholar.google.co.jp/citations?user=p_rRSS4AAAAJ&hl=en#)
-- [Researchgate]((https://www.researchgate.net/profile/Yurid-Nugraha))
+- [Researchgate](https://www.researchgate.net/profile/Yurid-Nugraha)
 - [Orcid](https://orcid.org/0000-0003-2054-952X)
 
 
