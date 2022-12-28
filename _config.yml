@@ -1,4 +1,5 @@
 theme: jekyll-theme-slate
+title: [The title of your site]
 description: Yurid Eka Nugraha
 plugins:
   - jekyll-seo-tag
