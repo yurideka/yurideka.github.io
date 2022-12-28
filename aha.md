@@ -6,7 +6,7 @@
 ### Review Experience
 
 - Journal: 
-  - Automatica,
+  - Automatica
   - IEEE Transactions on Automatic Control 
   - IEEE Transactions on Control of Network Systems 
   - IEEE Transactions on Network Science and Engineering 
