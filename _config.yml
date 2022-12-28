@@ -1,5 +1,5 @@
-theme: jekyll-theme-slate
+theme: jekyll-theme-modernist
 title: [The title of your site]
-description: Yurid Eka Nugraha
+description: KUPO
 plugins:
   - jekyll-seo-tag
