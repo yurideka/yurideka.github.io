@@ -12,13 +12,9 @@ I am a third-year PhD student at Dept. of Systems and Control Engineering, Tokyo
 
 ### [Lecture Materials](https://yurideka.github.io/lec)
 
-### [Test](https://yurideka.github.io/lqrh.pdf)
-
-### [Test2](https://yurideka.github.io/lqrg.rar)
-
 ### Email
 
-yurid@dsl.sc.e.titech.ac.jp, yurid.e@yahoo.com 
+yurid.e@yahoo.com 
 
 ### External links
 - [Google Scholar](https://scholar.google.co.jp/citations?user=p_rRSS4AAAAJ&hl=en#)
