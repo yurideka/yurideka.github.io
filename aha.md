@@ -5,8 +5,17 @@
 
 ### Review Experience
 
-- Journal: IEEE TAC, IEEE TCNS, IEEE TNSE, IEEE L-CSS, Automatica
-- Conference: IEEE CDC, ACC, ECC, IFAC-WC
+- Journal: 
+  - Automatica,
+  - IEEE Transactions on Automatic Control 
+  - IEEE Transactions on Control of Network Systems 
+  - IEEE Transactions on Network Science and Engineering 
+  - IEEE Control Systems Letters
+- Conference: 
+  - IEEE Conference on Decision and Control 
+  - American Control Conference 
+  - European Control Conference 
+  - IFAC World Congress
 
 ### Society Memberships
 
