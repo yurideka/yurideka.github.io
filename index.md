@@ -10,7 +10,7 @@ I am a third-year PhD student at Dept. of Systems and Control Engineering, Tokyo
 
 ### [Awards, Honors, and Activities](https://yurideka.github.io/aha)
 
-### [Lecture Materials](https://yurideka.github.io/lec)
+### [Lecture Materials](LecMat/Lec.md)
 
 ### Email
 
