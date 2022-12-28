@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
-title: []
-description: []
+title: [ ]
+description: [ ]
 plugins:
   - jekyll-seo-tag
