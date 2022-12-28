@@ -12,7 +12,7 @@ I am a third-year PhD student at Dept. of Systems and Control Engineering, Tokyo
 
 ### [Lecture Materials](https://yurideka.github.io/lec)
 
-### [Test](https://yurideka.github.io/first look rigorous prob)
+### [Test](https://yurideka.github.io/lqrh.pdf)
 
 ### Email
 
