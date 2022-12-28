@@ -2,6 +2,8 @@
 
 I am a third-year PhD student at Dept. of Systems and Control Engineering, Tokyo Tech, working under Dr. [Tomohisa Hayakawa](http://www.dsl.sc.e.titech.ac.jp/hayakawa/index.html). My research topics are in the areas of networked control systems, nonlinear systems, cyber-physical systems, and game theory.
 
+<br />
+
 ### [Employment](https://yurideka.github.io/employment)
 
 ### [Education](https://yurideka.github.io/education)
@@ -12,12 +14,15 @@ I am a third-year PhD student at Dept. of Systems and Control Engineering, Tokyo
 
 ### [Lecture Materials](LecMat/Lec.md)
 
+<br />
+
 ### Email
 
 yurid.e@yahoo.com 
 
 ### External links
 - [Google Scholar](https://scholar.google.co.jp/citations?user=p_rRSS4AAAAJ&hl=en#)
+- [Researchgate]((https://www.researchgate.net/profile/Yurid-Nugraha))
 - [Orcid](https://orcid.org/0000-0003-2054-952X)
 
 
