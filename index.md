@@ -1,8 +1,17 @@
-### About me
+Hi! I am a junior lecturer at [Dept. of Electrical Engineering](https://www.its.ac.id/telektro/), Sepuluh Nopember Institute of Technology, Indonesia.
+For now, this page is used mostly for the purpose of archiving materials of my classes.
 
-I am a third-year PhD student at Dept. of Systems and Control Engineering, Tokyo Tech, working under Dr. [Tomohisa Hayakawa](http://www.dsl.sc.e.titech.ac.jp/hayakawa/index.html). My research topics are in the areas of networked control systems, nonlinear systems, cyber-physical systems, and game theory.
+[My research topics are in the areas of networked control systems, nonlinear systems, cyber-physical systems, and game theory.]:<>
+
 
 <br />
+
+### [Lecture Materials](LecMat/Lec.md)
+
+
+<br />
+
+About me:
 
 ### [Employment](https://yurideka.github.io/employment)
 
@@ -12,7 +21,7 @@ I am a third-year PhD student at Dept. of Systems and Control Engineering, Tokyo
 
 ### [Awards, Honors, and Activities](https://yurideka.github.io/aha)
 
-### [Lecture Materials](LecMat/Lec.md)
+
 
 <br />
 
@@ -20,10 +29,10 @@ I am a third-year PhD student at Dept. of Systems and Control Engineering, Tokyo
 
 yurid.e@yahoo.com 
 
-### External links
-- [Google Scholar](https://scholar.google.co.jp/citations?user=p_rRSS4AAAAJ&hl=en#)
-- [Researchgate](https://www.researchgate.net/profile/Yurid-Nugraha)
-- [Orcid](https://orcid.org/0000-0003-2054-952X)
+[### External links]:<>
+[Google Scholar https://scholar.google.co.jp/citations?user=p_rRSS4AAAAJ&hl=en#]:<>
+[Researchgate https://www.researchgate.net/profile/Yurid-Nugraha]:<>
+[Orcid https://orcid.org/0000-0003-2054-952X]:<>
 
 
 
