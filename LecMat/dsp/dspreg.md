@@ -1,8 +1,4 @@
-### Lecture Materials
-
-Bachelor:
-- Introduction to control systems (IUP)
-- Introduction to control systems (Regular)
+### Introduction to control systems (Regular)
 
 Master:
 - Nonlinear control systems
