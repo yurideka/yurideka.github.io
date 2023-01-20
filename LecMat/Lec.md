@@ -2,7 +2,7 @@
 
 Bachelor:
 - Introduction to control systems (IUP)
-- Introduction to control systems (Regular)
+- [Introduction to control systems (Regular)](dsp/dspreg.md)
 
 Master:
 - Nonlinear control systems
