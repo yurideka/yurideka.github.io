@@ -1,4 +1,4 @@
-Hi! I am a junior lecturer at [Dept. of Electrical Engineering](https://www.its.ac.id/telektro/), Sepuluh Nopember Institute of Technology, Indonesia.
+Hi! I am Yurid Nugraha, a junior lecturer at [Dept. of Electrical Engineering](https://www.its.ac.id/telektro/), Sepuluh Nopember Institute of Technology, Indonesia.
 For now, this page is used mostly for the purpose of archiving materials of my classes.
 
 [My research topics are in the areas of networked control systems, nonlinear systems, cyber-physical systems, and game theory.]:<>
