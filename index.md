@@ -27,7 +27,7 @@ About me:
 
 ### Email
 
-yurid.e@yahoo.com 
+yurid@its.ac.id 
 
 [### External links]:<>
 [Google Scholar https://scholar.google.co.jp/citations?user=p_rRSS4AAAAJ&hl=en#]:<>
