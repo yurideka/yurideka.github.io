@@ -1,7 +1,7 @@
 ### Lecture Materials
 
 Bachelor:
-- Introduction to control systems (IUP)
+- Introduction to control systems (IUP)(dsp/dspiup.md)
 - [Introduction to control systems (Regular)](dsp/dspreg.md)
 
 Master:
