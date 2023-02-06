@@ -1,6 +1,6 @@
 ### Introduction to control systems (IUP)
 
-### [Week 1](lqrg.rar)
+### [Week 1](dsp/lqrg.rar)
 
 ### [Test](lqrg.rar)
 
