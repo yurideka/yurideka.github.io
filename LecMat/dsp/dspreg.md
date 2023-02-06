@@ -1,10 +1,6 @@
 ### Introduction to control systems (Regular)
 
-Master:
-- Nonlinear control systems
-- Formation and collaboration control systems
-- Networked control systems
- 
-### [Test](lqrg.rar)
+
+### [Week 1](dsp/DSP REG 2022E W1)
 
 ### [Back](https://yurideka.github.io/index)
