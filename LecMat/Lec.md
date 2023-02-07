@@ -5,8 +5,8 @@ Bachelor:
 - [Introduction to control systems (Regular)](dsp/dspreg.md)
 
 Master:
-- Nonlinear control systems
-- Formation and collaboration control systems
+- [Nonlinear control systems](nonl/nonl2022.md)
+- [Formation and collaboration control systems](for/for2022.md)
 - Networked control systems
  
 ### [Test](lqrg.rar)
