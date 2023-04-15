@@ -17,6 +17,7 @@
   - American Control Conference 
   - European Control Conference 
   - IFAC World Congress
+  - ISITIA
 
 ### Society Memberships
 
