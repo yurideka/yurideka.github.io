@@ -29,7 +29,7 @@
 
 [C9] **Y. Nugraha**, A. Cetinkaya, T. Hayakawa, H. Ishii, and Q. Zhu, "[Rolling horizon games of resilient networks with non-uniform horizons](https://www.sciencedirect.com/science/article/abs/pii/S0947358022000863)", in *Proc. European Control Conference*, 2022, pp. 1254-1269 (appeared as a journal paper in [J2]).
 
-[C10] **Y. Nugraha**, A. Cetinkaya, T. Hayakawa, H. Ishii, and Q. Zhu, "[Two-Player incomplete games of resilient multiagent systems]", in *Proc. IFAC-WC 2023*, to appear.
+[C10] **Y. Nugraha**, T. Hayakawa, H. Ishii, A. Cetinkaya, and Q. Zhu, "[Two-Player incomplete games of resilient multiagent systems]", in *Proc. IFAC-WC 2023*, to appear.
 
 <pre>
 
