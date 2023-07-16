@@ -13,7 +13,7 @@ About me:
 
 ### [Education and Employment](https://yurideka.github.io/education)
 
-### [Teaching](https://yurideka.github.io/employment)
+### [Teaching](https://yurideka.github.io/teaching)
 
 ### [Publications](https://yurideka.github.io/publications)
 
