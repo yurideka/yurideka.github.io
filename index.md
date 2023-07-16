@@ -11,9 +11,9 @@ My research topics are in the areas of networked control systems, nonlinear syst
 
 About me:
 
-### [Employment](https://yurideka.github.io/employment)
+### [Education and Employment](https://yurideka.github.io/education)
 
-### [Education](https://yurideka.github.io/education)
+### [Teaching](https://yurideka.github.io/employment)
 
 ### [Publications](https://yurideka.github.io/publications)
 
