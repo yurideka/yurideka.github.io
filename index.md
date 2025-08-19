@@ -1,4 +1,4 @@
-Hi! I am Yurid Nugraha, a junior lecturer at [Dept. of Electrical Engineering](https://www.its.ac.id/telektro/), Institut Teknologi Sepuluh Nopember, Indonesia.
+Hi! I am Yurid Nugraha, an Assistant Professor at [Dept. of Electrical Engineering](https://www.its.ac.id/telektro/), Institut Teknologi Sepuluh Nopember, Indonesia.
 
 
 My research topics are in the areas of networked control systems, nonlinear systems, cyber-physical systems, and game theory.
@@ -19,7 +19,7 @@ About me:
 
 ### [Awards, Honors, and Activities](https://yurideka.github.io/aha)
 
-
+<a href="assets/file.pdf" target="_blank">Download My CV (PDF)</a>
 
 <br />
 
