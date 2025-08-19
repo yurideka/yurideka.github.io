@@ -19,7 +19,7 @@ About me:
 
 ### [Awards, Honors, and Activities](https://yurideka.github.io/aha)
 
-<a href="assets/file.pdf" target="_blank">Download My CV (PDF)</a>
+<a href="cv/cvYurid.pdf" target="_blank">Download My CV (PDF)</a>
 
 <br />
 
