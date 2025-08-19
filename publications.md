@@ -29,7 +29,12 @@
 
 [C9] **Y. Nugraha**, A. Cetinkaya, T. Hayakawa, H. Ishii, and Q. Zhu, "[Rolling horizon games of resilient networks with non-uniform horizons](https://www.sciencedirect.com/science/article/abs/pii/S0947358022000863)", in *Proc. European Control Conference*, 2022, pp. 1254-1269 (appeared as a journal paper in [J2]).
 
-[C10] **Y. Nugraha**, T. Hayakawa, H. Ishii, A. Cetinkaya, and Q. Zhu, "[Two-Player incomplete games of resilient multiagent systems]", in *Proc. IFAC-WC 2023*, to appear.
+[C10] **Y. Nugraha**, T. Hayakawa, H. Ishii, A. Cetinkaya, and Q. Zhu, "[Two-Player incomplete games of resilient multiagent systems](https://www.sciencedirect.com/science/article/pii/S2405896323019869)", in *Proc. IFAC-World Congress*, 2023, pp. 258-263.
+
+[C11] A. R. Nurhadi, **Y. E. Nugraha**, T. Agustinah, and V. C. Maynad, "[3D SLAM Using Voxel Grid Filter on Wheeled Mobile Robot](https://ieeexplore.ieee.org/abstract/document/10652028)", in *Proc. International Conference on Data Science and Its Applications (ICoDSA)*, 2024, pp. 567-572.
+
+[C12] L. Susianti, T. Agustinah, and **Y.E. Nugraha**, "[Obstacle Avoidance Using Safe Dynamic Window Approach for Mobile Robot](https://ieeexplore.ieee.org/document/10963513)", in *Proc. International Seminar on Research of Information Technology and Intelligent Systems (ISRITI)*, 2024, pp. 323-328.
+
 
 <pre>
 
