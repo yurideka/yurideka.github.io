@@ -20,7 +20,7 @@ About me:
 ### [Awards, Honors, and Activities](https://yurideka.github.io/aha)
 
 ### [CV (PDF)](https://yurideka.github.io/cv/cvYurid.pdf)
-
+### [Awards, Honors, and Activities](https://yurideka.github.io/Probstat2025O)
 <br />
 
 ### Email
