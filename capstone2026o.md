@@ -4,3 +4,4 @@ Selamat datang di Capstone DTE Periode Gasal 2026-2027
 
 Berikut beberapa file penting:
   1. (2026/09/01) [File presentasi sosialisasi Capstone](https://drive.google.com/file/d/1Sk_qMAMV4UDaJNmfWVQ0hEzoGSE9wrAU/view?usp=drive_link)
+  2. (2026/09/01) [Video presentasi sosialisasi Capstone](https://drive.google.com/file/d/1wR-svKSmfzGBabwYtEi3vjMorsMx3W29/view?usp=drive_link)
