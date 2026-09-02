@@ -2,6 +2,9 @@ Selamat datang di Capstone DTE Periode Gasal 2026-2027
 
 電気工学の 2026O キャップストーン・デザインへようこそ！
 
-Berikut beberapa file penting:
+Beberapa file penting:
   1. (2026/09/01) [File presentasi sosialisasi Capstone](https://drive.google.com/file/d/1Sk_qMAMV4UDaJNmfWVQ0hEzoGSE9wrAU/view?usp=drive_link)
   2. (2026/09/01) [Video presentasi sosialisasi Capstone](https://drive.google.com/file/d/1wR-svKSmfzGBabwYtEi3vjMorsMx3W29/view?usp=drive_link)
+
+Beberapa referensi: 
+  1. (2026/09/02) [Majalah Capstone 2025-2026 Genap](https://drive.google.com/file/d/11Xkpp_guSGJL1Ii8z0rTYPiGr_ww2FzZ/view?usp=sharing)
