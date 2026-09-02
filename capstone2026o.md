@@ -1,11 +1,11 @@
 
 
-電気工学の 2026O キャップストーン・デザインへようこそ！
-このウェブページには、キャップストーン・デザイン・コースに必要な重要ファイルが掲載されています。
-ご協力をお願いいたします。
+電気工学の 2026O キャップストーン・デザインへようこそ！ <br>
+このウェブページには、キャップストーン・デザイン・コースに必要な重要ファイルが掲載されています。 <br>
+ご協力をお願いいたします。 <br>
 
-Selamat datang di Capstone DTE Periode Gasal 2026-2027
-Laman web ini memuat file-file penting yang berkaitan dengan MK PRE Gasal 2026-2027.
+Selamat datang di Capstone DTE Periode Gasal 2026-2027. <br>
+Laman web ini memuat file-file penting yang berkaitan dengan MK PRE Gasal 2026-2027. <br>
 
 Beberapa file penting:
   1. (2026/09/01) [File presentasi sosialisasi Capstone](https://drive.google.com/file/d/1Sk_qMAMV4UDaJNmfWVQ0hEzoGSE9wrAU/view?usp=drive_link)
