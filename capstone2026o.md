@@ -14,3 +14,4 @@ Beberapa file penting:
 
 Beberapa referensi: 
   1. (2026/09/02) [Majalah Capstone 2025-2026 Genap](https://drive.google.com/file/d/11Xkpp_guSGJL1Ii8z0rTYPiGr_ww2FzZ/view?usp=sharing)
+  2. (2026/09/02) [Contoh Surat Permohonan](https://drive.google.com/file/d/18rpfs4NTfLjXzKKaKlMSZERn4aQTFv2g/view?usp=sharing)
