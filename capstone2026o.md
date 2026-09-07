@@ -12,6 +12,9 @@ Beberapa file penting:
   2. (2026/09/01) [Video presentasi sosialisasi Capstone](https://drive.google.com/file/d/1wR-svKSmfzGBabwYtEi3vjMorsMx3W29/view?usp=drive_link)
   3. (2026/09/02) [Materi: Introduction to Design Thinking](https://drive.google.com/file/d/1OE_UX6Cq8F-rTlhHzw-tk2SRFB-DUf15/view?usp=drive_link)
   4. (2026/09/04) [Google form Surat Permohonan Survei/_Interview_](https://forms.gle/LCn8S9bMj6iZuZUC7)
+  5. (2026/09/07) [Sheet 1a: Empathy Mapping](https://drive.google.com/file/d/1wHvCtZumsTfFfeGNPViz74IS06JinAOX/view?usp=drive_link)
+  6. (2026/09/07) [Sheet 1b: User Persona Mapping](https://drive.google.com/file/d/1BqEpXkuNDUfgzg5I5t3Yh8Q-nsP3BQ_Y/view?usp=drive_link)
+  7. (2026/09/07) [Sheet 1c: As-is Scenario Mapping](https://drive.google.com/file/d/1S9XVBjtY42LR2cegD7aQTB4Pn8V-FFyt/view?usp=drive_link)
 
 Beberapa referensi: 
   1. (2026/09/02) [Majalah Capstone 2025-2026 Genap](https://drive.google.com/file/d/11Xkpp_guSGJL1Ii8z0rTYPiGr_ww2FzZ/view?usp=sharing)
