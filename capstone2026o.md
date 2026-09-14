@@ -16,6 +16,7 @@ Beberapa file penting:
   6. (2026/09/07) [Sheet 1b: User Persona Mapping](https://drive.google.com/file/d/1BqEpXkuNDUfgzg5I5t3Yh8Q-nsP3BQ_Y/view?usp=drive_link)
   7. (2026/09/07) [Sheet 1c: As-is Scenario Mapping](https://drive.google.com/file/d/1S9XVBjtY42LR2cegD7aQTB4Pn8V-FFyt/view?usp=drive_link)
   8. (2026/09/07) [Sheet 3: Prioritization Matrices](https://drive.google.com/file/d/1QEAlGv9h2G98OOBTG4qRFnv3XsyWDguw/view?usp=drive_link)
+  9. (2026/09/14) [Presensi Bimbingan: Harap diisi setiap bimbingan dengan dosen](https://forms.gle/cma3jraz1VSwdqub7)
 
 Beberapa referensi: 
   1. (2026/09/02) [Majalah Capstone 2025-2026 Genap](https://drive.google.com/file/d/11Xkpp_guSGJL1Ii8z0rTYPiGr_ww2FzZ/view?usp=sharing)
