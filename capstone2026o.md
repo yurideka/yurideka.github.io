@@ -18,7 +18,10 @@ Beberapa file penting:
   8. (2026/09/07) [Sheet 3: Prioritization Matrices](https://drive.google.com/file/d/1QEAlGv9h2G98OOBTG4qRFnv3XsyWDguw/view?usp=drive_link)
   9. (2026/09/14) [Presensi Bimbingan: Harap diisi setiap bimbingan dengan dosen](https://forms.gle/cma3jraz1VSwdqub7)
   10. (2026/09/25) [File presentasi Sosialisasi Fasilitas dan RAB Capstone](https://docs.google.com/presentation/d/1Bxrgy_B7eWlEpKlm6FeR8pWthi_v8mNE/edit?usp=drive_link&ouid=102967695391942251252&rtpof=true&sd=true)
+  11. (2026/09/28) [Format dokumen PRE-1: Proposal](https://docs.google.com/document/d/1AJh1naV7l41kjGxQAtj9c-UiUf1dmBPR/edit?usp=drive_link&ouid=102967695391942251252&rtpof=true&sd=true)
 
 Beberapa referensi: 
   1. (2026/09/02) [Majalah Capstone 2025-2026 Genap](https://drive.google.com/file/d/11Xkpp_guSGJL1Ii8z0rTYPiGr_ww2FzZ/view?usp=sharing)
   2. (2026/09/02) [Contoh Surat Permohonan Survei/_Interview_ Kunjungan](https://drive.google.com/file/d/18rpfs4NTfLjXzKKaKlMSZERn4aQTFv2g/view?usp=sharing)
+  3. (2026/09/28) [Contoh Proposal (versi lama)](https://drive.google.com/file/d/1nd69AhbHW_EpA31dzLNMwa8z5WAjWQ3J/view?usp=drive_link)
+  4. (2026/09/28) [Contoh Spesifikasi (versi lama)](https://drive.google.com/file/d/1RVokZMfny4TptWfdVIUi-AuRcLJdaP12/view?usp=drive_link)
